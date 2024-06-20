@@ -1,0 +1,16 @@
+Document represents the current webpage this DOM HTML object is used in javascript to access and manupulate the html page.
+Adding the javascript inside the  using script tag .IT is a part of window object.It is called DOM model . document object model
+proprities of dom :
+      create the element 
+      append the element and so on...
+
+
+
+
+
+window object: It represents the window containing the DOM document and provides methods, properties, and events that you can use to interact with the browser.
+The window object is one of the most important objects in JavaScript.
+window object properties (common )
+    window.innerheight : it gives the cuurent height of the window screen
+    window.size : it gives size of the current window
+    The window object is a powerful tool in web development, providing a wide range of functionalities to interact with the browser and control the behavior of web pages.

@@ -1,0 +1,11 @@
+objects is a referrence data  type .key value pair data .
+it is used to represents simple and complex data 
+var obj 1 = { 
+              name :  " sakthi"
+              email : sakthi01@email.com
+              age :    26
+              addres: chennai 
+              };     //object created 
+              console.log(obj1.name) extract only the name from obj1
+              console.log (obj1.email)
+    
